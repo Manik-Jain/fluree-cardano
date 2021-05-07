@@ -4,5 +4,5 @@ An easy approach to integrate FlureeDB with Cardano blockchain in order to store
 
 # FlureeDB installation steps
 Please follow the steps to download FlureeDB instance from [here](https://docs.flur.ee/docs/1.0.0/getting-started/installation)
-
+Once the instance is running in your machine, please check the 
 
