@@ -23,4 +23,4 @@ This will download all the required npm dependencies and perform a CRUD operatio
 Feel free to make changes to index.js for further interactions with DB.
 
 # Copyright
-MIT License. All right reserved.
+AGPL License. All right reserved.
