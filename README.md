@@ -3,9 +3,9 @@
 An easy approach to integrate FlureeDB with Cardano blockchain in order to store and retreive the metadata on FlureeDB as a sidechain.
 
 # Pre-requisites
-1. Java [v11](https://www.oracle.com/ca-en/java/technologies/javase-jdk11-downloads.html) or above 
-2. Node [v14](https://nodejs.org/en/download/current/) or above
-3. npm  [v6](https://www.npmjs.com/get-npm) or above
+1. Java v11 or above, [Download](https://www.oracle.com/ca-en/java/technologies/javase-jdk11-downloads.html) 
+2. Node v14 or above, [Download](https://nodejs.org/en/download/current/)
+3. npm  v6 or above , [Download](https://www.npmjs.com/get-npm)
 4. [wget](https://formulae.brew.sh/formula/wget#default) for Linux/Mac
 
 # FlureeDB installation steps
@@ -23,4 +23,4 @@ This will download all the required npm dependencies and perform a CRUD operatio
 Feel free to make changes to index.js for further interactions with DB.
 
 # Copyright
-AGPL License. All right reserved.
+AGPL License. All rights reserved.
